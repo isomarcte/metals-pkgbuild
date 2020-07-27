@@ -5,3 +5,6 @@
 /v*.tar.gz
 /*.pkg.tar.zst
 /*.class
+/test-project/target
+/test-project/core/target
+/test-project/project/*
